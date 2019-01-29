@@ -9,6 +9,7 @@
 import Foundation
 import UIKit
 
+// MARK: A single tool to rule them all
 enum DeeplinkType {
     enum Messages {
         case root

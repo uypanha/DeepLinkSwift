@@ -72,18 +72,18 @@
 		DC826ABD220001350092C426 /* DeepLinkSwift */ = {
 			isa = PBXGroup;
 			children = (
-				DC826ACA220001380092C426 /* Info.plist */,
-				DC826ABE220001350092C426 /* AppDelegate.swift */,
-				DC826AD9220001E50092C426 /* RootViewController.swift */,
-				DC826AC0220001350092C426 /* ViewController.swift */,
-				DC826AC5220001380092C426 /* Assets.xcassets */,
 				DC826AD02200016E0092C426 /* DeepLink */,
-				DC826AC7220001380092C426 /* LaunchScreen.storyboard */,
-				DC826ADB220002040092C426 /* LoginViewController.swift */,
+				DC826ACA220001380092C426 /* Info.plist */,
 				DC826ADD220002180092C426 /* ActivityViewController.swift */,
+				DC826ABE220001350092C426 /* AppDelegate.swift */,
+				DC826ADB220002040092C426 /* LoginViewController.swift */,
 				DC826ADF220002350092C426 /* MainViewController.swift */,
+				DC826AD9220001E50092C426 /* RootViewController.swift */,
 				DC826AE1220002510092C426 /* SplashViewController.swift */,
 				DC826AE3220002630092C426 /* UIViewController+Extension.swift */,
+				DC826AC0220001350092C426 /* ViewController.swift */,
+				DC826AC5220001380092C426 /* Assets.xcassets */,
+				DC826AC7220001380092C426 /* LaunchScreen.storyboard */,
 			);
 			path = DeepLinkSwift;
 			sourceTree = "<group>";
